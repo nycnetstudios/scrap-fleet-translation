@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://b3lhfhocd2bcd"
+
+[deps]
+
+files=["res://_to_delete/scrap-fleet-translation/translations/template.en.translation", "res://_to_delete/scrap-fleet-translation/translations/template.en.translation"]
+
+source_file="res://_to_delete/scrap-fleet-translation/translations/template.csv"
+dest_files=["res://_to_delete/scrap-fleet-translation/translations/template.en.translation", "res://_to_delete/scrap-fleet-translation/translations/template.en.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

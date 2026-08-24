@@ -1,0 +1,50 @@
+name: Translation contribution / Contribuição de tradução
+description: Submit a correction or a new language for review.
+title: "[Translation] "
+labels: ["translation"]
+body:
+  - type: dropdown
+    id: contribution_type
+    attributes:
+      label: Contribution type / Tipo de contribuição
+      options:
+        - New language / Novo idioma
+        - Existing translation correction / Correção existente
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language and locale / Idioma e locale
+      placeholder: Spanish (es), French Canada (fr_CA)
+    validations:
+      required: true
+  - type: input
+    id: game_version
+    attributes:
+      label: Game version / Versão do jogo
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: File or corrections / Arquivo ou correções
+      description: After creating the issue, drag the CSV into a comment. Small corrections can be described here using key, English and proposed translation.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit name / Nome para os créditos
+      description: Optional display name or GitHub username.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Context or terminology notes / Observações
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Permission / Autorização
+      options:
+        - label: I created or have permission to provide this text and authorize NYC Net Studios to use, adapt and distribute it as part of STARGRAVE.
+          required: true
