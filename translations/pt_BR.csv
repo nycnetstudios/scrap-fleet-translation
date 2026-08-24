@@ -1,56 +1,95 @@
-﻿"key","en","translation"
-"LANGUAGE_ENGLISH","English","Inglês"
-"LANGUAGE_PORTUGUESE_BRAZIL","Portuguese (Brazil)","Português (Brasil)"
-"UI_OPTIONS_TITLE","OPTIONS","OPÇÕES"
-"UI_OPTIONS_DESCRIPTION","Settings are global and saved automatically.","As configurações são globais e salvas automaticamente."
-"UI_OPTIONS_LANGUAGE","Language","Idioma"
-"UI_OPTIONS_MUSIC","Music","Música"
-"UI_OPTIONS_SFX","Sound effects","Efeitos sonoros"
-"UI_OPTIONS_AUDIO_HINT","These controls affect ambience, interface, weapons, impacts and explosions.","Estes controles afetam a ambiência, interface, disparos, impactos e explosões."
-"UI_BACK","BACK","VOLTAR"
-"UI_CONTINUE","CONTINUE","CONTINUAR"
-"UI_CONFIRM","CONFIRM","CONFIRMAR"
-"UI_CANCEL","CANCEL","CANCELAR"
-"UI_MAIN_MENU","MAIN MENU","MENU PRINCIPAL"
-"UI_PAUSE_TITLE","GAME PAUSED","JOGO PAUSADO"
-"UI_HANGAR_MENU_TITLE","HANGAR MENU","MENU DO HANGAR"
-"UI_PAUSE_SUBTITLE","The incursion is paused.","A incursão está pausada."
-"UI_HANGAR_SAFE_SUBTITLE","Progress is safe in the Hangar.","O progresso está seguro no Hangar."
-"UI_OPTIONS","OPTIONS","OPÇÕES"
-"UI_DEBUG","DEBUG","DEBUG"
-"UI_CONFIGURE_SCENE_EFFECTS","CONFIGURE SCENE EFFECTS","CONFIGURAR EFEITOS DO CENÁRIO"
-"UI_RETURN_MAIN_MENU","RETURN TO MAIN MENU","VOLTAR AO MENU PRINCIPAL"
-"UI_SAVE_AND_EXIT","SAVE AND EXIT","SALVAR E SAIR DO JOGO"
-"UI_HANGAR_EXIT_WARNING","Progress will be saved before exiting.","O progresso será salvo antes de sair."
-"UI_INCURSION_EXIT_WARNING","Returning to the menu ends the current incursion without saving.","Voltar ao menu encerra a incursão atual sem salvar."
-"UI_SECTOR_MAP_TITLE","SECTOR MAP","MAPA DOS SETORES"
-"UI_SECTOR_MAP_PAUSE_SUBTITLE","Progress is preserved at the Hangar checkpoint.","O progresso é preservado no checkpoint do Hangar."
-"MENU_TAGLINE","Build • Fight • Loot • Extract","Construa • Combata • Saqueie • Extraia"
-"MENU_START_GAME","START GAME","INICIAR JOGO"
-"MENU_CAMPAIGN_DEV","CAMPAIGN (DEV)","CAMPANHA (DEV)"
-"MENU_ENEMY_BUILDER_DEV","ENEMY BUILDER (DEV)","CONSTRUTOR DE INIMIGOS (DEV)"
-"MENU_PHYSICS_SANDBOX_DEV","PHYSICS SANDBOX (DEV)","SANDBOX DE FÍSICA (DEV)"
-"MENU_CREDITS","CREDITS","CRÉDITOS"
-"MENU_EXIT","EXIT","SAIR"
-"MENU_DEV_LOG","DEVELOPMENT LOG","REGISTRO DE DESENVOLVIMENTO"
-"MENU_DEV_STATUS","Level system, drag-and-drop Hangar and incursion map in progress. See DEV_NOTES.md for the full history.","Sistema de níveis, Hangar por arrasto e mapa de incursões em progresso. Veja DEV_NOTES.md para o histórico completo."
-"MENU_PROLOGUE_QUESTION","Play the prologue?\nRecommended to understand the game mechanics.","Deseja jogar o prólogo?\nRecomendado para entender as mecânicas do jogo."
-"MENU_PLAY_PROLOGUE","PLAY PROLOGUE","JOGAR PRÓLOGO"
-"UI_SKIP","SKIP","PULAR"
-"SAVES_TITLE","SAVES","SALVOS"
-"SAVES_ESC_BACK","ESC — back","ESC — voltar"
-"SAVES_HEADER_SAVE","SAVE","SALVAR"
-"SAVES_HEADER_DATE","DATE","DATA"
-"SAVES_HEADER_PLAYED","PLAYED","JOGADO"
-"SAVES_SLOT","Slot {slot}","Slot {slot}"
-"SAVES_NEW_SLOT","NEW GAME — Slot {slot}","NOVO JOGO — Slot {slot}"
-"SAVES_DELETE_MESSAGE","Delete Slot {slot}?\nThis action cannot be undone.","Apagar o Slot {slot}?\nEssa ação não pode ser desfeita."
-"SAVES_DELETE","DELETE","APAGAR"
-"MENU_HELP_TRANSLATE_BUTTON","HELP TRANSLATE","AJUDE A TRADUZIR"
-"TRANSLATION_HELP_TITLE","COMMUNITY TRANSLATIONS","TRADUÇÕES DA COMUNIDADE"
-"TRANSLATION_HELP_BODY","STARGRAVE is still in development. Some translations may be incomplete or inaccurate.\n\nYou can help correct existing text or add a new language. Download the community CSV template, fill in the translation column and submit it through the project form.\n\nEvery contribution is reviewed before being included in the game.","STARGRAVE ainda está em desenvolvimento. Algumas traduções podem estar incompletas ou imprecisas.\n\nVocê pode ajudar corrigindo textos existentes ou adicionando um novo idioma. Baixe o modelo CSV da comunidade, preencha a coluna de tradução e envie pelo formulário do projeto.\n\nToda contribuição é revisada antes de entrar no jogo."
-"TRANSLATION_HELP_FORM","OPEN CONTRIBUTION FORM","ABRIR FORMULÁRIO"
-"TRANSLATION_HELP_TEMPLATE","DOWNLOAD CSV TEMPLATE","BAIXAR MODELO CSV"
-"TRANSLATION_HELP_COPY_LINK","COPY PROJECT LINK","COPIAR LINK DO PROJETO"
-"TRANSLATION_HELP_LINK_COPIED","Project link copied.","Link do projeto copiado."
-"UI_CLOSE","CLOSE","FECHAR"
+key,en,translation
+LANGUAGE_ENGLISH,English,Inglês
+LANGUAGE_PORTUGUESE_BRAZIL,Portuguese (Brazil),Português (Brasil)
+UI_OPTIONS_TITLE,OPTIONS,OPÇÕES
+UI_OPTIONS_DESCRIPTION,Settings are global and saved automatically.,As configurações são globais e salvas automaticamente.
+UI_OPTIONS_LANGUAGE,Language,Idioma
+UI_OPTIONS_MUSIC,Music,Música
+UI_OPTIONS_SFX,Sound effects,Efeitos sonoros
+UI_OPTIONS_AUDIO_HINT,"These controls affect ambience, interface, weapons, impacts and explosions.","Estes controles afetam a ambiência, interface, disparos, impactos e explosões."
+UI_BACK,BACK,VOLTAR
+UI_CONTINUE,CONTINUE,CONTINUAR
+UI_CONFIRM,CONFIRM,CONFIRMAR
+UI_CANCEL,CANCEL,CANCELAR
+UI_MAIN_MENU,MAIN MENU,MENU PRINCIPAL
+UI_PAUSE_TITLE,GAME PAUSED,JOGO PAUSADO
+UI_HANGAR_MENU_TITLE,HANGAR MENU,MENU DO HANGAR
+UI_PAUSE_SUBTITLE,The incursion is paused.,A incursão está pausada.
+UI_HANGAR_SAFE_SUBTITLE,Progress is safe in the Hangar.,O progresso está seguro no Hangar.
+UI_OPTIONS,OPTIONS,OPÇÕES
+UI_DEBUG,DEBUG,DEBUG
+UI_CONFIGURE_SCENE_EFFECTS,CONFIGURE SCENE EFFECTS,CONFIGURAR EFEITOS DO CENÁRIO
+UI_RETURN_MAIN_MENU,RETURN TO MAIN MENU,VOLTAR AO MENU PRINCIPAL
+UI_SAVE_AND_EXIT,SAVE AND EXIT,SALVAR E SAIR DO JOGO
+UI_HANGAR_EXIT_WARNING,Progress will be saved before exiting.,O progresso será salvo antes de sair.
+UI_INCURSION_EXIT_WARNING,Returning to the menu ends the current incursion without saving.,Voltar ao menu encerra a incursão atual sem salvar.
+UI_SECTOR_MAP_TITLE,SECTOR MAP,MAPA DOS SETORES
+UI_SECTOR_MAP_PAUSE_SUBTITLE,Progress is preserved at the Hangar checkpoint.,O progresso é preservado no checkpoint do Hangar.
+MENU_TAGLINE,Build • Fight • Loot • Extract,Construa • Combata • Saqueie • Extraia
+MENU_START_GAME,START GAME,INICIAR JOGO
+MENU_CAMPAIGN_DEV,CAMPAIGN (DEV),CAMPANHA (DEV)
+MENU_ENEMY_BUILDER_DEV,ENEMY BUILDER (DEV),CONSTRUTOR DE INIMIGOS (DEV)
+MENU_PHYSICS_SANDBOX_DEV,PHYSICS SANDBOX (DEV),SANDBOX DE FÍSICA (DEV)
+MENU_CREDITS,CREDITS,CRÉDITOS
+MENU_EXIT,EXIT,SAIR
+MENU_DEV_LOG,DEVELOPMENT LOG,REGISTRO DE DESENVOLVIMENTO
+MENU_DEV_STATUS,"Level system, drag-and-drop Hangar and incursion map in progress. See DEV_NOTES.md for the full history.","Sistema de níveis, Hangar por arrasto e mapa de incursões em progresso. Veja DEV_NOTES.md para o histórico completo."
+MENU_PROLOGUE_QUESTION,Play the prologue?\nRecommended to understand the game mechanics.,Deseja jogar o prólogo?\nRecomendado para entender as mecânicas do jogo.
+MENU_PLAY_PROLOGUE,PLAY PROLOGUE,JOGAR PRÓLOGO
+UI_SKIP,SKIP,PULAR
+SAVES_TITLE,SAVES,SALVOS
+SAVES_ESC_BACK,ESC — back,ESC — voltar
+SAVES_HEADER_SAVE,SAVE,SALVAR
+SAVES_HEADER_DATE,DATE,DATA
+SAVES_HEADER_PLAYED,PLAYED,JOGADO
+SAVES_SLOT,Slot {slot},Slot {slot}
+SAVES_NEW_SLOT,NEW GAME — Slot {slot},NOVO JOGO — Slot {slot}
+SAVES_DELETE_MESSAGE,Delete Slot {slot}?\nThis action cannot be undone.,Apagar o Slot {slot}?\nEssa ação não pode ser desfeita.
+SAVES_DELETE,DELETE,APAGAR
+MENU_HELP_TRANSLATE_BUTTON,HELP TRANSLATE,AJUDE A TRADUZIR
+TRANSLATION_HELP_TITLE,COMMUNITY TRANSLATIONS,TRADUÇÕES DA COMUNIDADE
+TRANSLATION_HELP_BODY,"STARGRAVE is still in development. Some translations may be incomplete or inaccurate.\n\nYou can help correct existing text or add a new language. Download the community CSV template, fill in the translation column and submit it through the project form.\n\nEvery contribution is reviewed before being included in the game.","STARGRAVE ainda está em desenvolvimento. Algumas traduções podem estar incompletas ou imprecisas.\n\nVocê pode ajudar corrigindo textos existentes ou adicionando um novo idioma. Baixe o modelo CSV da comunidade, preencha a coluna de tradução e envie pelo formulário do projeto.\n\nToda contribuição é revisada antes de entrar no jogo."
+TRANSLATION_HELP_FORM,OPEN CONTRIBUTION FORM,ABRIR FORMULÁRIO
+TRANSLATION_HELP_TEMPLATE,DOWNLOAD CSV TEMPLATE,BAIXAR MODELO CSV
+TRANSLATION_HELP_COPY_LINK,COPY PROJECT LINK,COPIAR LINK DO PROJETO
+TRANSLATION_HELP_LINK_COPIED,Project link copied.,Link do projeto copiado.
+UI_CLOSE,CLOSE,FECHAR
+UI_PREVIOUS,PREVIOUS,ANTERIOR
+UI_NEXT,NEXT,PRÓXIMO
+UI_FINISH,FINISH,CONCLUIR
+HANGAR_HELP_TITLE,HANGAR HELP,AJUDA DO HANGAR
+SECTOR_MAP_START_INCURSION,START INCURSION,INICIAR INCURSÃO
+SECTOR_MAP_RETURN_HANGAR,RETURN TO HANGAR,VOLTAR AO HANGAR
+SECTOR_MAP_SECTOR,SECTOR {number},SETOR {number}
+SECTOR_MAP_REWARD,REWARD,RECOMPENSA
+SECTOR_MAP_STATUS_COMPLETED,●  COMPLETED • FARMING AVAILABLE,●  CONCLUÍDO • FARM DISPONÍVEL
+SECTOR_MAP_STATUS_AVAILABLE,●  AVAILABLE,●  DISPONÍVEL
+SECTOR_MAP_FINAL_DEFEATED,FINAL CHALLENGE ALREADY DEFEATED • it will not repeat in this sector,DESAFIO FINAL JÁ VENCIDO • não será repetido neste setor
+SECTOR_MAP_FINAL_CHALLENGE,FINAL CHALLENGE • {boss},DESAFIO FINAL • {boss}
+SECTOR_MAP_BOSS_UNKNOWN,signature not yet defined,assinatura ainda não definida
+SECTOR_MAP_CORE_REWARD,ENEMY CORE REWARD • ${reward} at risk until extraction,RECOMPENSA POR CORE INIMIGO • ${reward} em risco até a extração
+SECTOR_MAP_UNKNOWN_ENEMY,Enemy not yet identified,Inimigo ainda não identificado
+SECTOR_MAP_NO_ENEMIES,No enemy signatures catalogued in this sector.,Nenhuma assinatura inimiga catalogada neste setor.
+SECTOR_MAP_NO_TASK,No special task available for this incursion.,Nenhuma tarefa disponível para esta incursão.
+SECTOR_MAP_TASK_EXTRACT,Extract with {amount}× {item}.,Extraia com {amount}× {item}.
+HUD_CARGO,CARGO\n{used} / {capacity},CARGA\n{used} / {capacity}
+HUD_EXTRACTION_AVAILABLE,EXTRACTION\nAVAILABLE,EXTRAÇÃO\nDISPONÍVEL
+HUD_CORE_HP,CORE HP\n{current} / {maximum},NÚCLEO HP\n{current} / {maximum}
+HUD_CORE_HP_UNKNOWN,CORE HP\n--,NÚCLEO HP\n--
+HUD_MONEY,MONEY\n${amount},DINHEIRO\n${amount}
+HUD_BALANCE,BALANCE\n${amount},SALDO\n${amount}
+HUD_MODULES,MODULES\n{used} / {limit},MÓDULOS\n{used} / {limit}
+HUD_OBJECTIVE,OBJECTIVE\n{text},OBJETIVO\n{text}
+HUD_WAVE_COMPLETED,OBJECTIVE\nWAVE {wave}/{total} COMPLETED,OBJETIVO\nONDA {wave}/{total} CONCLUÍDA
+HUD_CALL_NEXT_WAVE,CALL NEXT WAVE   •   {time},CHAMAR PRÓXIMA ONDA   •   {time}
+HUD_NEXT_WAVE_TOOLTIP,Start now; automatic advance in {seconds} s,Iniciar agora; avanço automático em {seconds} s
+HUD_SURVIVE_WAVE,OBJECTIVE\nSURVIVE WAVE {wave} / {total},OBJETIVO\nSOBREVIVA À ONDA {wave} / {total}
+HUD_SECTOR,SECTOR {number}\n{name},SETOR {number}\n{name}
+HUD_UNKNOWN,UNKNOWN,DESCONHECIDO
+HUD_SECTOR_COMPLETED,SECTOR COMPLETED,SETOR CONCLUÍDO
+HUD_FINAL_BOSS,FINAL BOSS,CHEFÃO FINAL
+HUD_CLEAR_BOSS,BOSS • CLEAR THE AREA,CHEFE • LIMPE A ÁREA
+HUD_CLEAR_AREA,CLEAR THE AREA,LIMPE A ÁREA
+HUD_NEXT_TIMER,NEXT  {minutes}:{seconds},PRÓXIMA  {minutes}:{seconds}
+HUD_SPECIAL_TASK,{marker}  OPTIONAL • SPECIAL TASK\n{collected}/{required}  {item}  •  ${reward},{marker}  OPCIONAL • TAREFA ESPECIAL\n{collected}/{required}  {item}  •  ${reward}
+HUD_CORE_REWARD,REWARD\n+${amount},RECOMPENSA\n+${amount}
